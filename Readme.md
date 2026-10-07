@@ -1,0 +1,1 @@
+ini adalah file tugas mata kuliah Pengolahan Citra Digital
